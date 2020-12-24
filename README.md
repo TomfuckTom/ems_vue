@@ -5,3 +5,5 @@
 技术选用：SpringBoot+MyBatis+Vue+Axios+Redis
 
 功能：用户模块、员工模块
+
+![image](https://github.com/TomfuckTom/ems_vue/blob/master/display/1.png)
