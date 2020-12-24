@@ -6,4 +6,4 @@
 
 功能：用户模块、员工模块
 
-![image](https://github.com/TomfuckTom/ems_vue/blob/master/display/1.png)
+![alt text](https://github.com/TomfuckTom/ems_vue/blob/master/display/1.png)
